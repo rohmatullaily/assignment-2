@@ -24,6 +24,9 @@ go run main.go
 Open a web browser and access the following URLs:
 
 http://localhost:5555/ - This should take you to the login page.
+
 http://localhost:5555/register - This is the registration page.
+
 http://localhost:5555/logout - This logs out the user and redirects to the login page.
+
 You can then interact with the application by registering new users and logging in.
