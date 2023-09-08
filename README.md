@@ -25,8 +25,14 @@ Open a web browser and access the following URLs:
 
 http://localhost:5555/ - This should take you to the login page.
 
+<img width="1253" alt="Screen Shot 2023-09-08 at 18 20 33" src="https://github.com/rohmatullaily/assignment-2/assets/31227217/0c06eddb-bc9b-4a89-862b-c31bbde82830">
+
 http://localhost:5555/register - This is the registration page.
 
+<img width="1679" alt="Screen Shot 2023-09-09 at 02 26 23" src="https://github.com/rohmatullaily/assignment-2/assets/31227217/fd27f026-0e3d-41f0-b475-b0a418f99f79">
+
 http://localhost:5555/logout - This logs out the user and redirects to the login page.
+
+<img width="1680" alt="Screen Shot 2023-09-09 at 02 27 23" src="https://github.com/rohmatullaily/assignment-2/assets/31227217/162d2a45-8aa5-44c6-9efd-33a92f03c7a5">
 
 You can then interact with the application by registering new users and logging in.
